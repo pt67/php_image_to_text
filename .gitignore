@@ -1,0 +1,5 @@
+vendor/*
+!vendor/index.html
+uploads/*
+!uploads/index.html
+composer.lock

@@ -1,0 +1,12 @@
+{
+    "name": "divyasahu/ocr-test",
+    "require": {
+        "thiagoalessio/tesseract_ocr": "^2.10"
+    },
+    "authors": [
+        {
+            "name": "Prakash Thapa",
+            "email": "pt6769759@gmail.com"
+        }
+    ]
+}
