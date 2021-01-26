@@ -1,5 +1,5 @@
 {
-    "name": "divyasahu/ocr-test",
+    "name": "ocr-test",
     "require": {
         "thiagoalessio/tesseract_ocr": "^2.10"
     },
